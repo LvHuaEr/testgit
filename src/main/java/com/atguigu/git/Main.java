@@ -21,6 +21,7 @@ public class Main {
         System.out.printf("创建分支dev");
         System.out.printf("master分支添加");
         System.out.printf("dev分支添加");
+        System.out.printf("online添加");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
