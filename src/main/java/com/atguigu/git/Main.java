@@ -19,6 +19,7 @@ public class Main {
         System.out.printf("第二次测试git2");
         System.out.printf("第三次测试git3");
         System.out.printf("创建分支dev");
+        System.out.printf("master分支添加");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
